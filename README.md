@@ -103,8 +103,8 @@ Esta es la versión como script. Una futura iteración puede empaquetarlo como p
 
 ## 👨‍💻 Autor
 
-**[Tu nombre]**  
-Docente-investigador — Universidad Nacional de Villa María (UNVM)  
+**Ing. Ricardo Luis Castro**  
+Docente-investigador — UTN Facultad Regional Villa María  
 📍 Villa María, Córdoba, Argentina
 
 [![YouTube](https://img.shields.io/badge/YouTube-Canal_GIS-red?logo=youtube)](https://youtube.com/@tucanal)
